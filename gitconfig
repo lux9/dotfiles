@@ -48,4 +48,6 @@
   mergeoptions = --no-edit
 [user]
 	email = luischn94@gmail.com
-	name = vege
+	name = gh auth login -s 'user:email' -w --git-protocol ssh
+[credential]
+	helper = store
