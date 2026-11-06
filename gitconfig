@@ -48,6 +48,6 @@
   mergeoptions = --no-edit
 [user]
 	email = luischn94@gmail.com
-	name = vegetal
+	name = lux
 [credential]
 	helper = store
